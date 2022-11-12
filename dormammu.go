@@ -16,3 +16,5 @@ fmt.Println("*Gets reborn")
 time.Sleep(time.Second)
 	}
 }
+
+//you are dormmammu btw.
