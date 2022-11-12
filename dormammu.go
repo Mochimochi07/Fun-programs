@@ -9,6 +9,9 @@ func main() {
 	
 	for true {
 		fmt.Println("Stephen Strange: Dormammu I've come to bargain!")
-		time.Sleep(time.Second)
+		fmt.Println("*Stephen dies \n")
+fmt.Println("*Gets reborn")
+
+time.Sleep(time.Second)
 	}
 }
